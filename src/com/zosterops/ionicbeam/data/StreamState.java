@@ -1,4 +1,4 @@
-package com.zosterops.ionicbeam;
+package com.zosterops.ionicbeam.data;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
